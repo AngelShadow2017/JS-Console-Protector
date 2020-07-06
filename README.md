@@ -5,7 +5,7 @@ I think it is a good protector to protector your code... (I don't care what othe
 
 just ... Use it
 
-(Put this file in your project and link this file to <head></head>)
+(Put this file in your project and link this file to \<head\>\<\/head\>)
 
 e.g.
 
